@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/iclab/Code/people_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/iclab/Code/people_ws/src/people/face_detector/include/**",
+        "/home/iclab/Code/people_ws/src/people/leg_detector/include/**",
+        "/home/iclab/Code/people_ws/src/people/people_tracking_filter/include/**",
+        "/home/iclab/Code/people_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/usr/include/**",
+        "${workspaceFolder}/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
