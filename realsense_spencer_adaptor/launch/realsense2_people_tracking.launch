@@ -9,7 +9,7 @@
   </include>
   
   <node pkg="realsense_spencer_adaptor" type="realsense_spencer_adaptor.py" name="realsense_spencer_adaptor" ns="/spencer/sensors/rgbd_front_top"/>
-  
+  <!-- FIXME: this is-->
   <!-- <include file="$(find spencer_people_tracking_launch)/launch/tracking_single_rgbd_sensor.launch">
     <arg name="load_driver" value="false"/>
     <arg name="height_above_ground" value="1.0"/>
